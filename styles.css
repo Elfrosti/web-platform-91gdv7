@@ -5,7 +5,7 @@ div.header {
   background-color: white;
   width: 87.5%;
   height: 10.86%;
-  margin-right: 0;
-  margin-left: 20;
+  margin-right: 0px;
+
   position: fixed;
 }
