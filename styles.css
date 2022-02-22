@@ -1,11 +1,11 @@
 body {
   background: rgb(114, 109, 101);
 }
-div.header{
+div.header {
   background-color: white;
   width: 87.5%;
   height: 10.86%;
+  margin-right: 0;
+  margin-left: 20;
   position: fixed;
 }
-
-
